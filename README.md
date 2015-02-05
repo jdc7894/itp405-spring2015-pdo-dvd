@@ -1,5 +1,5 @@
-**### DVD Database Search ###
-**
-Search the DVD database for movie titles. 
+**### DVD Database Search ###**
 
-Assignment #1 for ITP 405, Spring 2015 with Professor David Tang. 
+Search the DVD database for dvd titles. 
+
+Assignment #1 for ITP 405, Spring 2015 with Professor David Tang.
